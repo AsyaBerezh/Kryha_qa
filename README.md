@@ -1,2 +1,0 @@
-# Kryha
-Kryha qa-challenge
